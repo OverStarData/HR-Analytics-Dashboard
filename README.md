@@ -54,4 +54,4 @@ View the full interactive dashboard here:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/hr-dashboard
+   git clone git@github.com:OverStarData/HR-Analytics-Dashboard.git

@@ -73,4 +73,5 @@ View the full interactive dashboard here:
 ## 📫 Contact
 
 - 📧 Email: [mahmoudkamal20518@gmail.com](mahmoudkamal20518@gmail.com)  
-- 💼 LinkedIn: [[Profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mahmoud-kamal-14208136b/))]
+- 💼 LinkedIn: [[Profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mahmoud-kamal-14208136b)]
+

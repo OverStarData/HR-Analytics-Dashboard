@@ -26,7 +26,7 @@ Both dashboards are designed for interactivity and clarity, offering valuable in
 ## 🌐 Live Dashboard
 
 View the full interactive dashboard here:  
-🔗 [Tableau Public – HR Dashboard]([https://public.tableau.com/app/profile/your-username/viz/HRDashboardProject/Overview](https://public.tableau.com/views/FinalHRProject_17500909538910/HRSummery?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 [Tableau Public – HR Dashboard](https://public.tableau.com/views/FinalHRProject_17500909538910/HRSummery?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -38,15 +38,30 @@ View the full interactive dashboard here:
 ### 🔍 Detailed Dashboard  
 ![Detailed Dashboard](./Images/2.png)
 
+### 👥 Gender & Department Breakdown  
+![Gender Department](./Images/3.png)
+
+### 📈 Attrition Over Time  
+![Attrition Trends](./Images/4.png)
+
+### 🧑‍💼 Job Roles & Satisfaction  
+![Job Roles](./Images/5.png)
+
+### ⏳ Employee Tenure  
+![Tenure](./Images/6.png)
+
+### 🧮 Overall KPIs  
+![Overall KPIs](./Images/7.png)
+
 ---
 
 ## 🔍 Key Insights
 
-- Department-wise headcount and distribution  
-- Employee attrition and retention trends  
-- Job role satisfaction breakdown  
-- Gender diversity metrics  
-- Tenure and experience analysis  
+- 📌 Department-wise headcount and distribution  
+- 🔁 Attrition and retention trends  
+- 💼 Job role satisfaction levels  
+- 🚻 Gender and diversity analytics  
+- 📊 Tenure, experience, and performance indicators  
 
 ---
 
@@ -54,4 +69,8 @@ View the full interactive dashboard here:
 
 1. Clone this repository:
    ```bash
-   git clone git@github.com:OverStarData/HR-Analytics-Dashboard.git
+   git clone https://github.com/OverStarData/HR-Analytics-Dashboard.git
+## 📫 Contact
+
+- 📧 Email: [your.email@example.com](mahmoudkamal20518@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mahmoud-kamal-14208136b/))

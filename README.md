@@ -33,10 +33,10 @@ View the full interactive dashboard here:
 ## 🖼️ Dashboard Previews
 
 ### 📌 Summary Dashboard  
-![Summary Dashboard](./Project Images/1.png)
+![Summary Dashboard](./Images/1.png)
 
 ### 🔍 Detailed Dashboard  
-![Detailed Dashboard](./Project Images/2.png)
+![Detailed Dashboard](./Images/2.png)
 
 ---
 

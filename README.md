@@ -72,5 +72,5 @@ View the full interactive dashboard here:
    git clone https://github.com/OverStarData/HR-Analytics-Dashboard.git
 ## 📫 Contact
 
-- 📧 Email: [your.email@example.com](mahmoudkamal20518@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mahmoud-kamal-14208136b/))
+- 📧 Email: [mahmoudkamal20518@gmail.com](mahmoudkamal20518@gmail.com)  
+- 💼 LinkedIn: [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mahmoud-kamal-14208136b/))

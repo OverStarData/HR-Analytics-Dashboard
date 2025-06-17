@@ -33,7 +33,7 @@ View the full interactive dashboard here:
 ## 🖼️ Dashboard Previews
 
 ### 📌 Summary Dashboard  
-![Summary Dashboard](./Project Images/1.png)
+![Summary Dashboard]("./Project Images/1.png")
 
 ### 🔍 Detailed Dashboard  
 ![Detailed Dashboard](./Project Images/2.png)
@@ -54,4 +54,4 @@ View the full interactive dashboard here:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/hr-dashboard
+   git clone git@github.com:OverStarData/HR-Analytics-Dashboard.git

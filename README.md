@@ -26,17 +26,17 @@ Both dashboards are designed for interactivity and clarity, offering valuable in
 ## 🌐 Live Dashboard
 
 View the full interactive dashboard here:  
-🔗 [Tableau Public – HR Dashboard](https://public.tableau.com/app/profile/your-username/viz/HRDashboardProject/Overview)
+🔗 [Tableau Public – HR Dashboard]([https://public.tableau.com/app/profile/your-username/viz/HRDashboardProject/Overview](https://public.tableau.com/views/FinalHRProject_17500909538910/HRSummery?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ---
 
 ## 🖼️ Dashboard Previews
 
 ### 📌 Summary Dashboard  
-![Summary Dashboard](./Images/summary_dashboard.png)
+![Summary Dashboard](./Project Images/1.png)
 
 ### 🔍 Detailed Dashboard  
-![Detailed Dashboard](./Images/detailed_dashboard.png)
+![Detailed Dashboard](./Project Images/2.png)
 
 ---
 
